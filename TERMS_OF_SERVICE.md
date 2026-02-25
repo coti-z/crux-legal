@@ -1,12 +1,12 @@
-# Crux Terms of Service
+# Nexto Terms of Service
 
 **Effective Date:** February 5, 2026
 
 ---
 
-Welcome to the Crux Terms of Service ("Terms"). These Terms constitute a legal agreement between you and Crux ("Company", "we", "us", "our").
+Welcome to the Nexto Terms of Service ("Terms"). These Terms constitute a legal agreement between you and Nexto ("Company", "we", "us", "our").
 
-Please read these Terms carefully before using the Crux service ("Service"). By accessing or using the Service, you agree to be bound by these Terms.
+Please read these Terms carefully before using the Nexto service ("Service"). By accessing or using the Service, you agree to be bound by these Terms.
 
 ---
 
@@ -14,7 +14,7 @@ Please read these Terms carefully before using the Crux service ("Service"). By 
 
 ### 1.1 Service Description
 
-Crux is a project and task management platform designed to improve productivity for individuals and teams. We provide the following features:
+Nexto is a project and task management platform designed to improve productivity for individuals and teams. We provide the following features:
 
 - Project creation and management
 - Task creation, editing, and status management
@@ -268,6 +268,15 @@ The following disputes are excluded from arbitration:
 
 - Claims related to intellectual property infringement
 - Claims within the jurisdiction of Small Claims Court
+
+### 12.5 Jurisdiction-Specific Provisions
+
+- **United Kingdom:** Nothing in these Terms affects your statutory rights under the Consumer Rights Act 2015 or other applicable UK legislation. The arbitration and class action waiver provisions in Sections 12.2 and 12.3 do not apply to UK residents to the extent they are unenforceable under UK law. Any disputes will be subject to the non-exclusive jurisdiction of the courts of England and Wales.
+- **Canada:** These Terms are subject to applicable federal and provincial consumer protection legislation. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under Canadian law. The class action waiver in Section 12.3 may not apply in provinces where such waivers are prohibited.
+- **Australia:** Nothing in these Terms is intended to exclude, restrict, or modify any consumer guarantees, rights, or remedies you may have under the Australian Consumer Law (Schedule 2 of the Competition and Consumer Act 2010) that cannot be excluded, restricted, or modified by agreement.
+- **New Zealand:** Nothing in these Terms is intended to limit any rights you may have under the Consumer Guarantees Act 1993 or the Fair Trading Act 1986.
+- **Singapore:** These Terms are subject to the applicable provisions of Singapore law, including the Consumer Protection (Fair Trading) Act.
+- **South Africa:** Nothing in these Terms is intended to limit any rights you may have under the Consumer Protection Act 68 of 2008 or the Electronic Communications and Transactions Act 25 of 2002.
 
 ---
 

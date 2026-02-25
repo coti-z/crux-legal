@@ -111,6 +111,15 @@ We reserve the right to terminate or restrict your access to the App at any time
 
 These Terms shall be governed by and construed in accordance with the laws of the United States, without regard to conflict of law principles.
 
+**Jurisdiction-Specific Provisions:**
+
+- **United Kingdom:** Nothing in these Terms affects your statutory rights under the Consumer Rights Act 2015 or other applicable UK legislation. Any disputes will be subject to the non-exclusive jurisdiction of the courts of England and Wales.
+- **Canada:** These Terms are subject to applicable federal and provincial consumer protection legislation. Nothing in these Terms excludes or limits liability that cannot be excluded or limited under Canadian law.
+- **Australia:** Nothing in these Terms is intended to exclude, restrict, or modify any consumer guarantees, rights, or remedies you may have under the Australian Consumer Law (Schedule 2 of the Competition and Consumer Act 2010) that cannot be excluded, restricted, or modified by agreement.
+- **New Zealand:** Nothing in these Terms is intended to limit any rights you may have under the Consumer Guarantees Act 1993 or the Fair Trading Act 1986.
+- **Singapore:** These Terms are subject to the applicable provisions of Singapore law, including the Consumer Protection (Fair Trading) Act.
+- **South Africa:** Nothing in these Terms is intended to limit any rights you may have under the Consumer Protection Act 68 of 2008 or the Electronic Communications and Transactions Act 25 of 2002.
+
 ---
 
 ## 11. Changes to Terms
