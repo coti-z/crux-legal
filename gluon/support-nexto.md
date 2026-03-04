@@ -1,4 +1,4 @@
-# Nexto Support
+# Gluon Support
 
 **Version:** 1.0
 **Last Updated:** February 26, 2026
@@ -7,7 +7,7 @@
 
 ## Contact Us
 
-If you have any questions, issues, or feedback about Nexto, please reach out to us:
+If you have any questions, issues, or feedback about Gluon, please reach out to us:
 
 **Email:** [jiungdev@gmail.com](mailto:jiungdev@gmail.com)
 
