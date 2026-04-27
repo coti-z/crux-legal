@@ -1,6 +1,6 @@
 # Gluon Privacy Policy
 
-**Effective Date:** March 25, 2026
+**Effective Date:** April 27, 2026
 
 ---
 
@@ -13,11 +13,6 @@ By using the Service, you consent to the information practices described in this
 ## 1. Information We Collect
 
 ### 1.1 Information You Provide
-
-**Profile Information**
-
-- Display name (optional)
-- Profile photo (optional)
 
 **User Content**
 
@@ -255,4 +250,4 @@ If you have any questions about this Policy, please contact us at:
 
 ---
 
-_This Privacy Policy is effective as of March 25, 2026._
+_This Privacy Policy is effective as of April 27, 2026._
